@@ -10,7 +10,7 @@ Add a dependency to your project's `pom.xml`
 <dependency>
     <groupId>ca.pjer</groupId>
     <artifactId>hydra-client-resttemplate</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0-beta.9-8555973</version>
 </dependency>
 ```
 

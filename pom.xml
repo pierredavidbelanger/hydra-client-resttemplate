@@ -7,7 +7,7 @@
 
     <groupId>ca.pjer</groupId>
     <artifactId>hydra-client-resttemplate</artifactId>
-    <version>0.1.0</version>
+    <version>1.0.0-beta.9-8555973</version>
 
     <properties>
         <java.version>1.8</java.version>
@@ -93,7 +93,7 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
-                            <inputSpec>api.swagger.json</inputSpec>
+                            <inputSpec>https://raw.githubusercontent.com/ory/hydra/master/docs/api.swagger.json</inputSpec>
                             <language>java</language>
                             <library>resttemplate</library>
                             <configOptions>
